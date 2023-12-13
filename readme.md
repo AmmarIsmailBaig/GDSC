@@ -1,4 +1,4 @@
-#Analysis Report: Visualization of Iris Dataset
+# Analysis Report: Visualization of Iris Dataset
 
 Objective:
 Explore the Iris dataset through visualization to understand the distribution and relationships between features.
@@ -22,7 +22,7 @@ Identified correlations provide valuable information for further analysis.
 Visualization analysis offers insights into feature relationships and distribution, laying the groundwork for predictive modeling.
 
 
-#Analysis Report: Sales Prediction Using Linear Regression Model
+# Analysis Report: Sales Prediction Using Linear Regression Model
 
 Objective:
 This analysis aims to predict sales using a linear regression model, exploring the relationship between various factors and sales performance.
